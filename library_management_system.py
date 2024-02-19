@@ -1,6 +1,6 @@
 class Library:
 #filename txt dosyasını yazacağımız yer olarak belirtilmeli.
-    def __init__(self, filename="C:\\Users\\tikia\\OneDrive\\Masaüstü\\odev\\books.txt"):
+    def __init__(self, filename="C:\\Users\\*****\\OneDrive\\Masaüstü\\odev\\books.txt"):
         self.filename = filename
 
     def list_books(self):
